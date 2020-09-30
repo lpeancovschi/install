@@ -32,7 +32,7 @@ else
   GROUP="$(id -gn)"
   TOUCH="/bin/touch"
 fi
-BREW_REPO="https://github.com/Homebrew/brew"
+BREW_REPO="https://github.com/Homebrew/brew/tree/2.3.0"
 
 # TODO: bump version when new macOS is released
 MACOS_LATEST_SUPPORTED="10.15"
